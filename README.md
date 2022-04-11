@@ -19,3 +19,9 @@ To get the project .......
 
 # Cloning the repository:
 git@github.com:mariallugare/awwwards.git
+
+# Navigate into the folder and install requirements
+cd project-awwards pip install -r requirements.txt 
+
+# Install and activate Virtual
+- python3 -m venv virtual - source virtual/bin/activate  
