@@ -24,7 +24,9 @@ git@github.com:mariallugare/awwwards.git
 cd project-awwards pip install -r requirements.txt 
 
 # Install and activate Virtual
-- python3 -m venv virtual - source virtual/bin/activate  
+
+- python3 -m venv virtual - source virtual/bin/activate 
+-  
 # Install Dependencies
 pip install -r requirements.txt 
 # Setup Database
@@ -55,7 +57,7 @@ Javascript
 Heroku
 # Known Bugs
 There are no known bugs currently but pull requests are allowed incase you spot a bug
-Contact Information
+# Contact Information
 If you have any question or contributions, please email me at [mariallugare@gmail.com]
 
 # License
