@@ -14,3 +14,7 @@ Search for projects.
 View projects overall score.
 
 A user can view their profile page.
+# Setup and Installation
+To get the project .......
+
+# Cloning the repository:
