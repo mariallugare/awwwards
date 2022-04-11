@@ -18,3 +18,4 @@ A user can view their profile page.
 To get the project .......
 
 # Cloning the repository:
+git@github.com:mariallugare/awwwards.git
