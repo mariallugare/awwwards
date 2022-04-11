@@ -5,4 +5,4 @@ from .models import Project, Ratings, Profile
 admin.site.register(Project)
 admin.site.register(Profile)
 admin.site.register(Ratings)
-admin.site.register(rates)
+
