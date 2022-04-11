@@ -1,5 +1,5 @@
 .top {
-    max-width: 1440px;
+    max-width: 1800px;
     margin-inline: auto;
     background-color: #e3dada;
     height: 4.3rem;
@@ -16,7 +16,7 @@
 }
 
 .top-container {
-    max-width: 1200px;
+    max-width: 1800px;
     width: 95%;
     text-align: center;
     color: #934646;
