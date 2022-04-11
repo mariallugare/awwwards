@@ -47,6 +47,7 @@ Open the application on your browser 127.0.0.1:8000.
 
 # Technology used
 Python3.9
+css
 
 Django 4.0
 Javascript
