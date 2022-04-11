@@ -29,13 +29,13 @@
 }
 
 .header {
-    max-width: 1440px;
+    max-width: 1800px;
     margin-inline: auto;
     background-color: #0c0a0a;
 }
 
 .header-nav-container {
-    max-width: 1440px;
+    max-width: 1800px;
     margin-inline: aut o;
     min-height: 70px;
     display: -webkit-box;
