@@ -49,6 +49,7 @@ Open the application on your browser 127.0.0.1:8000.
 Python3.9
 
 Django 4.0
+Javascript
 
 Heroku
 # Known Bugs
