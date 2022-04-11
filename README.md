@@ -25,3 +25,23 @@ cd project-awwards pip install -r requirements.txt
 
 # Install and activate Virtual
 - python3 -m venv virtual - source virtual/bin/activate  
+# Install Dependencies
+pip install -r requirements.txt 
+# Setup Database
+SetUp your database User,Password, Host then make migrate
+
+python manage.py makemigrations awwards
+Now Migrate
+
+python manage.py migrate 
+
+Run the application
+
+python manage.py runserver 
+
+Testing the application
+
+python manage.py test 
+
+Open the application on your browser 127.0.0.1:8000.
+
